@@ -44,13 +44,14 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ---
+## Future work:
+- integrate Deep Learning models for more accurate enhancement
+---
 
 ## Running the app
 streamlit run app.py
 
----
-
-Below is the screenshot of how it'll look after running:
+- Below is the screenshot of how it'll look after running:
 ![image](https://github.com/user-attachments/assets/961367cd-ac79-4d78-9a9c-3f9b58ea8409)
 ![image](https://github.com/user-attachments/assets/50349004-677d-4c8a-873d-b31a66a82eea)
 
