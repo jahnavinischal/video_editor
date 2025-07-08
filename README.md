@@ -18,7 +18,7 @@ This app lets you **preview and enhance** a single video frame, then optionally 
 
 ## 📁 Project Structure
 
-The project files are present in the folder
+The project files are present in the folder 'Downloads/video_edit'
 
 ## 🔧 Installation
 
